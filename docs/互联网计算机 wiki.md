@@ -8,18 +8,16 @@
 
 互联网计算机是最快、最具扩展性的通用区块链。 它由 DFINITY 于 2021 年 5 月推出，旨在通过托管 dapp、内容和为数十亿用户执行计算来实现区块链奇点。 在构建互联网计算机的过程中，在密码学（链密钥密码学）、编程语言（Motoko）等方面取得了许多显著的技术发展。
 
-blockchain sigularity is the migration of all humanity's systems and services to blockchian where  they'll be re-implemented using smart contract software
-
 ### 常见的开始
 
 - [互联网计算机：信息图](https://dfinity.org/icig.pdf)
 
-- [词汇表](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/%E8%AF%8D%E6%B1%87%E8%A1%A8.md)
+- [词汇表](wiki/词汇表.md)
 
 ### 对于一般的读者
 
-- [互联网计算机概述](互联网计算机概述.md)
-- [互联网计算机愿景](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%84%BF%E6%99%AF.md)
+- [互联网计算机概述](wiki/互联网计算机概述.md)
+- [互联网计算机愿景](wiki/互联网计算机愿景.md)
 - [互联网计算机路线图](https://dfinity.org/roadmap/)
 
 ### 对于技术性更强的读者
@@ -29,22 +27,22 @@ blockchain sigularity is the migration of all humanity's systems and services to
 
 ## 互联网身份介绍
 
-使用互联网电脑的核心好处之一是，用户不需要令牌，也不需要支付访问和使用 dapp 的费用。作为从钱包进行身份验证的一种替代方法，用户可以使用互联网身份进行验证。在这里你可以找到更多的关于互联网身份的信息(II)(https://identity.ic0.app/)，这是一个区块链认证框架支持的互联网计算机。
+使用互联网电脑的核心好处之一是，用户不需要令牌，也不需要支付访问和使用 Dapp 的费用。作为从钱包进行身份验证的一种替代方法，用户可以使用互联网身份进行验证。在这里你可以找到更多的关于互联网身份的信息(II)(https://identity.ic0.app/ )，这是一个区块链认证框架支持的互联网计算机。
 
-- [什么是互联网身份](https://wiki.internetcomputer.org/wiki/What_is_Internet_Identity)
-- [dapp 用户的互联网身份](https://wiki.internetcomputer.org/wiki/Internet_Identity_for_dapp_users)
-- [互联网身份技术概述](https://wiki.internetcomputer.org/wiki/Internet_Identity_technical_overview)
+- [什么是互联网身份](wiki/什么是互联网身份.md)
+- [Dapp 用户的互联网身份](wiki/Dapp用户的互联网身份.md)
+- [互联网身份技术概述](wiki/互联网身份技术概述.md)
 
-## 面向DAPP用户的互联网计算机
+## 面向 DAPP 用户的互联网计算机
 
-如果您使用或有兴趣使用网络计算机上的 dapps，这一部分将帮助您了解 IC 的用户体验优势，如何使用互联网身份，或找到更多的 IC dapps。
+如果您使用或有兴趣使用网络计算机上的 Dapp，这一部分将帮助您了解 IC 的用户体验优势，如何使用互联网身份，或找到更多的 IC Dapp。
 
 示例:
 
-- [Dapp 用户网络计算机介绍](https://wiki.internetcomputer.org/wiki/Introduction_to_the_Internet_Computer_for_dapp_users)
-- [互联网计算机上的Dapp索引](Index_of_dapps_on_the_Internet_Computer)
+- [Dapp 用户互联网计算机介绍](wiki/Dapp用户互联网计算机介绍.md)
+- [互联网计算机上的Dapp索引](wiki/互联网计算机上的Dapp索引.md)
 
-可以在 [Dapp 用户网络计算机](https://wiki.internetcomputer.org/wiki/Internet_Computer_for_dapp_users)了解更多
+可以在 [Dapp 用户的互联网计算机](Dapp用户的互联网计算机.md)了解更多
 
 ## ICP代币持有者、质押者和神经元持有者的互联网计算机
 
@@ -52,8 +50,8 @@ blockchain sigularity is the migration of all humanity's systems and services to
 
 例子：
 
-- [ICP token](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/3-11%EF%BC%881%EF%BC%89%20ICP%20Token.md)
-- [Managing ICP holdings](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/3-16%20Manage%20ICP%20holdings%20copy.md)
+- [ICP token](wiki/ICP Token.md)
+- [Managing ICP holdings](wiki/管理持有的ICP.md)
 - [Staking, voting and rewards](https://wiki.internetcomputer.org/wiki/Staking,_voting_and_rewards)
 - [Governance of the Internet Computer](https://wiki.internetcomputer.org/wiki/Governance_of_the_Internet_Computer)
 - [Network Nervous System](https://wiki.internetcomputer.org/wiki/Network_Nervous_System)
@@ -68,8 +66,8 @@ blockchain sigularity is the migration of all humanity's systems and services to
 例子：
 
 - [Canisters (dapps/smart contracts)](https://wiki.internetcomputer.org/wiki/Canisters_(dapps/smart_contracts))
-- [Developer documentation on smartcontract.org](https://smartcontracts.org/)
-- [IC community developer forum](https://forum.dfinity.org/)
+- [smartcontract.org 上的开发者文档](https://smartcontracts.org/)
+- [IC社区开发者论坛](https://forum.dfinity.org/)
 - [Bitcoin integration](https://wiki.internetcomputer.org/wiki/Bitcoin_integration)
 
 更多内容参见 [Internet Computer for smart contract and dapp developers](https://wiki.internetcomputer.org/wiki/Internet_Computer_for_smart_contract_and_dapp_developers).
@@ -80,10 +78,10 @@ blockchain sigularity is the migration of all humanity's systems and services to
 
 例子：
 
-- [How the Internet Computer Works](https://dfinity.org/howitworks/)
-- [Internet Computer dashboard](https://dashboard.internetcomputer.org/)
-- [Internet Computer performance](https://wiki.internetcomputer.org/wiki/Internet_Computer_performance)
-- [DFINITY Foundation](https://wiki.internetcomputer.org/wiki/DFINITY_Foundation)
+- [互联网计算机的工作原理](https://dfinity.org/howitworks/)
+- [互联网计算机仪表板](https://dashboard.internetcomputer.org/)
+- [互联网计算机的性能](wiki/互联网计算机的性能.md)
+- [DFINITY 基金会](wiki/DFINITY基金会.md)
 - [Bitcoin integration](https://wiki.internetcomputer.org/wiki/Bitcoin_integration)
 
 更多内容参见 [Internet Computer for researchers and blockchain enthusiasts](https://wiki.internetcomputer.org/w/index.php?title=Internet_Computer_for_researchers_and_blockchain_enthusiasts&action=edit&redlink=1).
@@ -94,13 +92,13 @@ blockchain sigularity is the migration of all humanity's systems and services to
 
 ### 常见问题解答
 
-- [FAQ](https://wiki.internetcomputer.org/wiki/FAQ)
+- [FAQ](wiki/FAQ.md)
 
 ### 教程
 
 例子:
 
-- [Managing ICP holdings](https://wiki.internetcomputer.org/wiki/Managing_ICP_holdings)
+- [Managing ICP holdings](wiki/管理持有的ICP.md)
 - [Managing Internet Identity](https://wiki.internetcomputer.org/wiki/Managing_Internet_Identity)
 - [Maximizing Voting and NNS Rewards](https://wiki.internetcomputer.org/wiki/Maximizing_Voting_and_NNS_Rewards)
 
