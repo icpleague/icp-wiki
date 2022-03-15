@@ -12,15 +12,15 @@ blockchain sigularity is the migration of all humanity's systems and services to
 
 ### 常见的开始 1
 
-- [Internet Computer：信息图](https://dfinity.org/icig.pdf)
+- [互联网计算机：信息图](https://dfinity.org/icig.pdf)
 
 - [词汇表](E:\OneDrive\OneDrive - abc(china)LTD\Desktop\ICP\wiki\词汇表.md)
 
 ### 对于一般的读者
 
-- [Internet Computer概述](E:\OneDrive\OneDrive - abc(china)LTD\Desktop\ICP\wiki\Internet Computer概述.md)
-- [Internet Computer视觉](https://wiki.internetcomputer.org/wiki/Internet_Computer_vision)
-- [Internet Computer路线图](https://dfinity.org/roadmap/)
+- [互联网计算机概述](E:\OneDrive\OneDrive - abc(china)LTD\Desktop\ICP\wiki\Internet Computer概述.md)
+- [互联网计算机愿景](https://wiki.internetcomputer.org/wiki/Internet_Computer_vision)
+- [互联网计算机路线图](https://dfinity.org/roadmap/)
 
 ### 对于技术性更强的读者
 
