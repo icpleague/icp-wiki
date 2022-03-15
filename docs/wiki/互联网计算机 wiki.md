@@ -10,7 +10,7 @@
 
 blockchain sigularity is the migration of all humanity's systems and services to blockchian where  they'll be re-implemented using smart contract software
 
-### 常见的开始 1
+### 常见的开始
 
 - [互联网计算机：信息图](https://dfinity.org/icig.pdf)
 
@@ -18,8 +18,8 @@ blockchain sigularity is the migration of all humanity's systems and services to
 
 ### 对于一般的读者
 
-- [互联网计算机概述](E:\OneDrive\OneDrive - abc(china)LTD\Desktop\ICP\wiki\Internet Computer概述.md)
-- [互联网计算机愿景](https://wiki.internetcomputer.org/wiki/Internet_Computer_vision)
+- [互联网计算机概述](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%BF%B0.md)
+- [互联网计算机愿景](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%84%BF%E6%99%AF.md)
 - [互联网计算机路线图](https://dfinity.org/roadmap/)
 
 ### 对于技术性更强的读者
