@@ -122,7 +122,7 @@ blockchain sigularity is the migration of all humanity's systems and services to
 
 ### 如何投稿
 
-任何人都可以阅读维基。 您还可以编辑页面，您需要做的就是[创建一个帐户](https://wiki.internetcomputer.org/wiki/Special:CreateAccount)。 在[为 wiki 投稿]()中查看更多信息。
+任何人都可以阅读维基。 您还可以编辑页面，您需要做的就是[创建一个帐户](https://wiki.internetcomputer.org/wiki/Special:CreateAccount)。 在为 wiki 投稿【此处是链接】中查看更多信息。
 
 ## 参考文献
 
