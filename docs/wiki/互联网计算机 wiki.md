@@ -14,7 +14,7 @@ blockchain sigularity is the migration of all humanity's systems and services to
 
 - [互联网计算机：信息图](https://dfinity.org/icig.pdf)
 
-- [词汇表](E:\OneDrive\OneDrive - abc(china)LTD\Desktop\ICP\wiki\词汇表.md)
+- [词汇表](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/%E8%AF%8D%E6%B1%87%E8%A1%A8.md)
 
 ### 对于一般的读者
 
