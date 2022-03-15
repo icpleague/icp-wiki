@@ -10,8 +10,8 @@
 * 环保  
 
 查看更多：
-* [互联网计算机概述](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%BF%B0.md)
-* [互联网计算机愿景](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%84%BF%E6%99%AF.md)   
+* [互联网计算机概述](docs/wiki/互联网计算机概述.md)
+* [互联网计算机愿景](docs/wiki/互联网计算机愿景.md)   
 
 ### 1.2 什么类型的dapp可以在IC上运行?
  IC可以运行非常复杂的智能合约和dapp。最引入注目的是，IC上的智能合约和dapp与其他区块链的区别在于:
@@ -51,7 +51,7 @@ IC和比特币都是区块链。他们的不同点在于，比特币本质上只
 ### 3.3 有哪些在IC上的dapp和智能合约的例子?
 
 ## 4 互联网计算机有多快?
-为深入了解，请参阅[互联网计算机的性能](https://wiki.internetcomputer.org/wiki/Internet_Computer_Performance)（已经翻译过，但我不会连起来）。  
+为深入了解，请参阅[互联网计算机的性能](docs/wiki/互联网计算机的性能.md)。  
 
 以下是高层次的概述: 
 
@@ -69,7 +69,7 @@ IC和比特币都是区块链。他们的不同点在于，比特币本质上只
 a. 在IC上，dapp从后端读取数据的速度有多快 -- 应用程序可以对容器(容器掌管状态)进行查询调用，因此它可以在不到一秒的时间内读取数据(目标在200毫秒以下，通常在250毫秒以下)。  
 b. 在IC上，dapp写入数据到后端的速度有多快 --  应用程序可以进行更新调用。这些需要达成共识，所以需要更多的时间。目标目前是2秒(通过不断努力来进一步减少)。与BTC或ETH相比，这是数量级的更快。与中心化计算相比，这可能一开始看起来很慢，但实际上，如果考虑到大多数栈中服务器之间的复制量，这是意料之中的。
 
-更多细节参考：[互联网计算机的性能](https://wiki.internetcomputer.org/wiki/Internet_Computer_performance)。
+更多细节参考：[互联网计算机的性能](docs/wiki/互联网计算机的性能.md)。
 
 ### 4.3 从区块链测量的视角来看（例如：“每秒的区块数& 每秒的交易数”）  
 IC是“无界的”，这意味着与大多数其他协议不同，它可以通过增加更多的机器来提高执行时间（ latency ）和通量。粗略地说，如果IC的子网增多，它可以处理更多的更新调用。如果每个子网的节点数量增加，则可以处理更多查询。这是“IC是无界的”这句话中的关键点。截至2021年1月18日，互联网计算机每秒处理31.7区块: https://dashboard.internetcomputer.org/  。
@@ -107,7 +107,7 @@ ICP的燃烧和铸造由以下机制决定:
 ## 6 为什么互联网计算机可以做这些其他区块链做不到的事情?
 技术原因超出了FAQ的范围，但一个高层次的回答是:
 ### 6.1 计算机互联网的独特之处
-链钥密码技术(Chain key cryptography[[6]](https://medium.com/dfinity/chain-key-technology-one-public-key-for-the-internet-computer-6a3644901e28))是驱动互联网计算机运行的引擎。它允许:
+链钥加密技术(Chain key cryptography[[6]](https://medium.com/dfinity/chain-key-technology-one-public-key-for-the-internet-computer-6a3644901e28))是驱动互联网计算机运行的引擎。它允许:
 * 增加新的节点以形成新的子网，从而无限扩展网络； 
 * 用新的节点替换故障或崩溃的节点，使其从不停止；
 * 恢复子网，即使子网中有很多节点出现故障；
@@ -128,14 +128,5 @@ ICP的燃烧和铸造由以下机制决定:
 #### 7.1.2 dapps列表
 参阅：[Index_of_dapps_on_the_Internet_Computer_ecosystem](https://wiki.internetcomputer.org/wiki/Index_of_dapps_on_the_Internet_Computer_ecosystem)
  
-
-
-
-
-
-
-
-
-
 
 
