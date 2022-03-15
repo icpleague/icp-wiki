@@ -1,5 +1,5 @@
 # 管理持有的ICP
-互联网计算机的治理依靠人们对其[ICP代币](https://wiki.internetcomputer.org/wiki/ICP_token)进行质押并对提案进行投票。对此有四个步骤（每个步骤都有不同的选项集）：
+互联网计算机的治理依靠人们对其[ICP代币](ICP代币.md)进行质押并对提案进行投票。对此有四个步骤（每个步骤都有不同的选项集）：
 
 * 获取ICP  
 * 托管  
@@ -38,16 +38,16 @@
 
 ## 2 托管
 托管是管理您的ICP的行为。有许多选项，每一种都有不同的安全性和可用性权衡。
-你可以根据自己的舒适程度进行选择，关于可选择范围的总结，请参阅[ICP托管选项](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/3-16(1)%20%E6%89%98%E7%AE%A1%E9%80%89%E9%A1%B9.md)。
+你可以根据自己的舒适程度进行选择，关于可选择范围的总结，请参阅[ICP托管选项](托管选项.md)。
 
 ## 3 质押
 一旦你决定了托管，质押就是用溶解延迟锁定一个神经元内的ICP。[质押和投票](https://wiki.internetcomputer.org/wiki/Staking_and_voting)是[互联网计算机治理](https://wiki.internetcomputer.org/wiki/Governance_of_the_Internet_Computer)的关键。
 
-通过质押，你可以对NNS提案投票并收集NNS奖励。有许多种植牙的选择，每一种都有不同的安全性和可用性权衡。参见[ICP质押选项](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/3-16(2)%20%E8%B4%A8%E6%8A%BC%E9%80%89%E9%A1%B9.md)。
+通过质押，你可以对NNS提案投票并收集NNS奖励。有许多种植牙的选择，每一种都有不同的安全性和可用性权衡。参见[ICP质押选项](质押选项.md)。
 
 
 ## 4 投票
-投票是使用神经元对神经网络提案进行投票的行为。请参阅[ICP投票选项](https://github.com/icpleague/icp-wiki/blob/master/docs/wiki/3-16(3)%20%E6%8A%95%E7%A5%A8%E9%80%89%E9%A1%B9.md)。
+投票是使用神经元对神经网络提案进行投票的行为。请参阅[ICP投票选项](投票选项.md)。
 
 ## 5 另请参阅：
 * [互联网计算机的治理](https://wiki.internetcomputer.org/wiki/Governance_of_the_Internet_Computer)
