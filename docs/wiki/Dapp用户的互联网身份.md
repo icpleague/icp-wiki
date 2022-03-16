@@ -4,7 +4,7 @@
 
 ## 入门
 
-<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Welcome.png/200px-Welcome.png" align="right" width="200">假设您想与互联网计算机上运行的 Dapp 进行交互。 通常情况下，您需要进行身份验证或登录才能访问和使用 Dapp 的功能。 目前，最简单的身份验证方法是使用从互联网身份获得的身份锚。
+<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Welcome.png/200px-Welcome.png" align="right" width="200"/>假设您想与互联网计算机上运行的 Dapp 进行交互。 通常情况下，您需要进行身份验证或登录才能访问和使用 Dapp 的功能。 目前，最简单的身份验证方法是使用从互联网身份获得的身份锚。
 
 互联网身份将每个身份锚与唯一的用户编号相关联。 Dapp用户登录不知道这个用户号。 相反，互联网身份为每个用户、每个 Dapp 创建一个化名标识符。 Dapp 可以看到它是之前登录的同一用户，但不知道它是谁，也不知道该用户是否还使用其他 Dapp。
 
@@ -16,7 +16,7 @@
 
 ## 创建锚点
 
-<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_anchor_created.png/200px-Ii_anchor_created.png" align="right" width="200">当您选择要在 II 主页上创建互联网身份锚点时，您将被引导到一个屏幕，提示您提供要在其上生成锚点的设备的名称，例如 iPhone、笔记本电脑、Yubikey。
+<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_anchor_created.png/200px-Ii_anchor_created.png" align="right" width="200"/>当您选择要在 II 主页上创建互联网身份锚点时，您将被引导到一个屏幕，提示您提供要在其上生成锚点的设备的名称，例如 iPhone、笔记本电脑、Yubikey。
 
 输入设备名称后，您的设备将提示您允许“identity.ic0.app”使用专用安全密钥或您正在使用的设备的身份验证方法（如果该选项可用）。 例如，如果您的设备启用了生物识别来解锁它，您可能会看到使用这些作为您的身份验证方法的选项。 您还可以使用解锁计算机的密码或解锁手机的 PIN，具体取决于您使用的设备。
 
@@ -28,7 +28,7 @@
 
 ### 助记词
 
-<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_setup_recovery.png/200px-Ii_setup_recovery.png" align="right" width="200">如果您以前使用过数字钱包，也许您习惯于安全地维护助记词，如果没有，那从现在开始就要好好记住助记词。 选择此选项会生成一个密码安全的助记词，您可以使用它来恢复身份锚。 确保将助记词存储在安全且只有您自己知道的地方，因为知道助记词的任何人都可以完全控制此身份锚。 请注意，助记词中的第一个字符串是身份锚。 您将需要此号码来开始恢复过程。
+<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_setup_recovery.png/200px-Ii_setup_recovery.png" align="right" width="200"/>如果您以前使用过数字钱包，也许您习惯于安全地维护助记词，如果没有，那从现在开始就要好好记住助记词。 选择此选项会生成一个密码安全的助记词，您可以使用它来恢复身份锚。 确保将助记词存储在安全且只有您自己知道的地方，因为知道助记词的任何人都可以完全控制此身份锚。 请注意，助记词中的第一个字符串是身份锚。 您将需要此号码来开始恢复过程。
 
 ### 安全密钥
 如果您选择不使用助记词作为恢复方法，您可以使用专用安全密钥来恢复身份锚，以防您无法访问授权设备。 此密钥必须不同于您使用给定身份锚主动用于对互联网身份进行身份验证的密钥。 将此密钥保存在安全的地方，并确保它仅供您使用。 如上所述，拥有此安全密钥的任何人都可以完全控制您的身份锚。 您需要知道身份锚才能开始恢复。
@@ -39,14 +39,14 @@
 
 ## 添加第二个设备
 
-<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_newdevice.png/200px-Ii_newdevice.png" align="right" width="200">出于多种原因，添加第二个设备是一种很好的做法。
+<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_newdevice.png/200px-Ii_newdevice.png" align="right" width="200"/>出于多种原因，添加第二个设备是一种很好的做法。
 
 - 通常情况下，您需要从多个设备登录 dapp，例如。 从手机到笔记本电脑。
 - 添加第二台设备可以更轻松地恢复您的锚或帐户，如果它从一个设备丢失。
 
 添加第二个设备的最直接方法是导航到您要添加的设备上的 https://identity.ic0.app/。 到达那里后，您可以选择“已经有锚**但使用新设备**”选项。 单击此按钮后，您将被定向到一个页面，您可以在其中输入您现有的身份锚点。 输入您的锚号码并单击继续后，系统将提示您允许访问安全密钥或您当前的设备。 选择您的偏好（例如 Yubikey 或指纹扫描），然后您将被引导至显示 url（及其等效二维码）的屏幕。
 
-<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_newdeviceQR.png/200px-Ii_newdeviceQR.png" align="right" width="200">要添加新设备，您需要在您首次验证的原始设备上输入 url 或扫描 QR 码。 例如，如果您最初在手机上生成身份锚点，现在尝试将笔记本电脑添加为第二台设备，则应使用手机扫描笔记本电脑上生成的二维码。
+<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_newdeviceQR.png/200px-Ii_newdeviceQR.png" align="right" width="200"/>要添加新设备，您需要在您首次验证的原始设备上输入 url 或扫描 QR 码。 例如，如果您最初在手机上生成身份锚点，现在尝试将笔记本电脑添加为第二台设备，则应使用手机扫描笔记本电脑上生成的二维码。
 
 使用原始设备扫描 QR 码后，您将被定向到应用程序，您可以在其中确认您正在尝试添加新设备。 确认后，系统会要求您为新设备命名（在上面的示例中，适当的名称是“笔记本电脑”）。 在此之后，两个设备都应该出现在 identity.ic0.app 的锚点管理页面中。
 
@@ -57,9 +57,9 @@
 在此之后，您将被定向到要求您授权身份验证的页面。 选择**继续**后，您将完成身份验证过程并被重定向并登录到 Dapp。
 
 ## 找回丢失的身份
-<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_recover.png/200px-Ii_recover.png" align="right" width="200">如果您丢失了锚号码并且无法再访问您的授权设备，您可以使用助记词或初始设置过程中使用的安全密钥恢复丢失的身份。
+<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_recover.png/200px-Ii_recover.png" align="right" width="200"/>如果您丢失了锚号码并且无法再访问您的授权设备，您可以使用助记词或初始设置过程中使用的安全密钥恢复丢失的身份。
 
-<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_seedphrase.png/200px-Ii_seedphrase.png" align="right" width="200">要恢复您丢失的身份，首先导航到 https://identity.ic0.app/ 在页面底部选择丢失访问权限以及恢复链接。 在此之后，您将被引导到一个页面，要求输入丢失身份的锚号码。 请注意，助记词的第一个字符串是锚编号，因此您始终可以在那里找到它。 输入您要恢复的身份的锚号后，您将被定向到要求您输入助记词的页面。 复制助记词并单击继续后，您的身份将被恢复。
+<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_seedphrase.png/200px-Ii_seedphrase.png" align="right" width="200"/>要恢复您丢失的身份，首先导航到 https://identity.ic0.app/ 在页面底部选择丢失访问权限以及恢复链接。 在此之后，您将被引导到一个页面，要求输入丢失身份的锚号码。 请注意，助记词的第一个字符串是锚编号，因此您始终可以在那里找到它。 输入您要恢复的身份的锚号后，您将被定向到要求您输入助记词的页面。 复制助记词并单击继续后，您的身份将被恢复。
 
 
 请注意，互联网身份 Dapp 上的恢复页面是您应该输入助记词的唯一页面。
@@ -124,4 +124,4 @@
 也可能是设备上未启用人脸 ID 或指纹系统。 确保这些已启用，然后尝试再次登录。
 
 ### 有没有办法撤销 Dapp 对我的身份锚的访问？
-没有明确的撤销方法，但是对互联网身份的权限委托是有时间限制的，所以会过期。或者，只要关闭浏览器选项卡，委托就消失了。<br><br/>
+没有明确的撤销方法，但是对互联网身份的权限委托是有时间限制的，所以会过期。或者，只要关闭浏览器选项卡，委托就消失了。
