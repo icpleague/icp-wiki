@@ -39,7 +39,7 @@ IC和比特币都是区块链。他们的不同点在于，比特币本质上只
 * 节点数量
 * 数据中心数量  
 
-![[网络构建区块的层次结构 Hierarchy of network building blocks]](https://wiki.internetcomputer.org/wiki/File:Hiearchy_of_network_building_blocks.jpeg)
+![网络构建区块的层次结构 Hierarchy of network building blocks](https://user-images.githubusercontent.com/64115203/158592581-914dda55-83df-440c-bc5e-bf2aef486990.png)
 
 
 ### 3.2 IC上有多少智能合约？
