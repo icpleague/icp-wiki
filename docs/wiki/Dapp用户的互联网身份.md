@@ -59,6 +59,7 @@
 ## 找回丢失的身份
 <img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_recover.png/200px-Ii_recover.png" align="right" width="200"/>如果您丢失了锚号码并且无法再访问您的授权设备，您可以使用助记词或初始设置过程中使用的安全密钥恢复丢失的身份。
 
+
 <img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_seedphrase.png/200px-Ii_seedphrase.png" align="right" width="200"/>要恢复您丢失的身份，首先导航到 https://identity.ic0.app/ 在页面底部选择丢失访问权限以及恢复链接。 在此之后，您将被引导到一个页面，要求输入丢失身份的锚号码。 请注意，助记词的第一个字符串是锚编号，因此您始终可以在那里找到它。 输入您要恢复的身份的锚号后，您将被定向到要求您输入助记词的页面。 复制助记词并单击继续后，您的身份将被恢复。
 
 
