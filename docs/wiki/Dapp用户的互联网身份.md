@@ -54,9 +54,9 @@
 
 当您创建了身份锚并添加了设备后，登录 Dapp 是一个简单的过程。 当您导航到支持使用互联网身份进行身份验证的 Dapp 时，只需单击登录按钮即可定向到 II 前端，您可以在其中输入您的锚编号并进行身份验证。
 
-在此之后，您将被定向到要求您授权身份验证的页面。 选择**继续**后，您将完成身份验证过程并被重定向并登录到 Dapp。<img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_recover.png/200px-Ii_recover.png" align="right" width="200">
+在此之后，您将被定向到要求您授权身份验证的页面。 选择**继续**后，您将完成身份验证过程并被重定向并登录到 Dapp。
 
-## 找回丢失的身份
+## <img src="https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/internetcomputer/thumb/Ii_recover.png/200px-Ii_recover.png" align="right" width="200">找回丢失的身份
 
 如果您丢失了锚号码并且无法再访问您的授权设备，您可以使用助记词或初始设置过程中使用的安全密钥恢复丢失的身份。
 
