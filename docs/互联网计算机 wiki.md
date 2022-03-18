@@ -11,7 +11,6 @@
 ### 常见的开始
 
 - [互联网计算机：信息图](https://dfinity.org/icig.pdf)
-
 - [词汇表](wiki/词汇表.md)
 
 ### 对于一般的读者
@@ -39,10 +38,10 @@
 
 示例:
 
-- [Dapp 用户互联网计算机介绍](wiki/Dapp用户互联网计算机介绍.md)
+- [Dapp 用户互联网计算机介绍](wiki/Dapp用户的互联网计算机介绍.md)
 - [互联网计算机上的Dapp索引](wiki/互联网计算机上的Dapp索引.md)
 
-可以在 [Dapp 用户的互联网计算机](Dapp用户的互联网计算机.md)了解更多
+可以在 [Dapp 用户的互联网计算机](wiki/Dapp用户的互联网计算机.md)了解更多
 
 ## ICP代币持有者、质押者和神经元持有者的互联网计算机
 
@@ -50,8 +49,8 @@
 
 例子：
 
-- [ICP token](wiki/ICP Token.md)
-- [Managing ICP holdings](wiki/管理持有的ICP.md)
+- [ICP 代币](wiki/ICP代币.md)
+- [管理持有的 ICP](wiki/管理持有的ICP.md)
 - [Staking, voting and rewards](https://wiki.internetcomputer.org/wiki/Staking,_voting_and_rewards)
 - [Governance of the Internet Computer](https://wiki.internetcomputer.org/wiki/Governance_of_the_Internet_Computer)
 - [Network Nervous System](https://wiki.internetcomputer.org/wiki/Network_Nervous_System)
@@ -67,7 +66,7 @@
 
 - [Canisters (dapps/smart contracts)](https://wiki.internetcomputer.org/wiki/Canisters_(dapps/smart_contracts))
 - [smartcontract.org 上的开发者文档](https://smartcontracts.org/)
-- [IC社区开发者论坛](https://forum.dfinity.org/)
+- [IC 社区开发者论坛](https://forum.dfinity.org/)
 - [Bitcoin integration](https://wiki.internetcomputer.org/wiki/Bitcoin_integration)
 
 更多内容参见 [Internet Computer for smart contract and dapp developers](https://wiki.internetcomputer.org/wiki/Internet_Computer_for_smart_contract_and_dapp_developers).
@@ -98,8 +97,8 @@
 
 例子:
 
-- [Managing ICP holdings](wiki/管理持有的ICP.md)
-- [Managing Internet Identity](https://wiki.internetcomputer.org/wiki/Managing_Internet_Identity)
+- [管理持有的ICP](wiki/管理持有的ICP.md)
+- [管理互联网身份](wiki/管理互联网身份.md)
 - [Maximizing Voting and NNS Rewards](https://wiki.internetcomputer.org/wiki/Maximizing_Voting_and_NNS_Rewards)
 
 更多内容参见 [Best Practices](https://wiki.internetcomputer.org/wiki/Best_Practices)
