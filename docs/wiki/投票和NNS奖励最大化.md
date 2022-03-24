@@ -57,7 +57,7 @@ NNS是一种流动的民主，这意味着神经元可以将他们的投票权�
   * https://cycledao.xyz/blog
 
 * **ICPMN**
-  * 神经元编号：4966884161088437903  
+  * 神经元id：4966884161088437903  
   * https://dashboard.internetcomputer.org/neuron/4966884161088437903
   * https://www.ic.community/followee-neuron-for-icp-maximalist-network/  
 
