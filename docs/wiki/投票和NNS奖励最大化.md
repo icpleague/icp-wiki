@@ -16,7 +16,7 @@ NNS是一种流动的民主，这意味着神经元可以将他们的投票权�
 
 因此，用户可以利用“流动民主”来追随你信任的、代表他们利益的神经元。例如，如果Alice的神经元跟随Bob的神经元，那么当Bob投票“接受”提案投票时，Alice的神经元也会投票。这有两个后果：
 
-* Alice将获得投票奖励（即使她没有手动投票） 
+* Alice将获得投票奖励（即使她没有手动投票） 。
 * 有效地为Bob的神经元赋予了Alice的投票权（可以随时撤销）。 
 
 关于如何设置跟随神经元的分步说明，请参阅操作方法：[设置你的神经元跟随另一个神经元](https://wiki.internetcomputer.org/wiki/How-To:_Set_your_neuron_to_follow_another_neuron)。
@@ -85,11 +85,11 @@ NNS是一种流动的民主，这意味着神经元可以将他们的投票权�
 溶解延迟越长，奖励比例越高。要根据溶解延迟估算APY，请参阅计算器：[奖励估算](https://dashboard.internetcomputer.org/governance)。
 
 ## 另请参阅：
-* [ICP代币]()
-* [管理所持的ICP] ()
-* [质押、投票和奖励] ()
-* [互联网计算机治理] ()
-* [网络神经系统] ()
+* [ICP代币](ICP代币.md)
+* [管理持有的ICP](管理持有的ICP.md)
+* [质押、投票和奖励](https://wiki.internetcomputer.org/wiki/Staking,_voting_and_rewards)
+* [互联网计算机治理](https://wiki.internetcomputer.org/wiki/Governance_of_the_Internet_Computer)
+* [网络神经系统](https://wiki.internetcomputer.org/wiki/Network_Nervous_System)
 * [治理提案和投票奖励权重的变化（提案）](https://forum.dfinity.org/t/changes-to-governance-proposals-and-voting-reward-weights-proposal/9172)  
 * [社区主导的互联网计算机治理](https://medium.com/dfinity/the-community-led-governance-of-the-internet-computer-b863cd2975ba)  
       1.  https://forum.dfinity.org/t/changes-to-governance-proposals-and-voting-reward-weights-proposal/9172
