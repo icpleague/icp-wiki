@@ -128,5 +128,3 @@ ICP的燃烧和铸造由以下机制决定:
 #### 7.1.2 dapps列表
 参阅：[Index_of_dapps_on_the_Internet_Computer_ecosystem](https://wiki.internetcomputer.org/wiki/Index_of_dapps_on_the_Internet_Computer_ecosystem)
  
-
-
