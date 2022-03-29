@@ -64,10 +64,10 @@
 
 例子：
 
-- [容器（dapps智能合约）](wiki/5.智能合约和 Dapp 开发人员的互联网计算机/5.1容器（dapps智能合约）.md)
+- [容器（dapps智能合约）](wiki/5.智能合约和Dapp开发人员的互联网计算机/5.1容器（dapps智能合约）.md)
 - [smartcontract.org 上的开发者文档](https://smartcontracts.org/)
 - [IC 社区开发者论坛](https://forum.dfinity.org/)
-- [比特币的整合](wiki/5.智能合约和 Dapp 开发人员的互联网计算机/5.2比特币的整合.md)
+- [比特币的整合](wiki/5.智能合约和Dapp开发人员的互联网计算机/5.2比特币的整合.md)
 
 更多内容参见 [Internet Computer for smart contract and dapp developers](https://wiki.internetcomputer.org/wiki/Internet_Computer_for_smart_contract_and_dapp_developers).
 
@@ -81,7 +81,7 @@
 - [互联网计算机仪表板](https://dashboard.internetcomputer.org/)
 - [互联网计算机的性能](wiki/6.为好奇者、研究人员和区块链爱好者准备的互联网计算机/6.1互联网计算机的性能.md)
 - [DFINITY 基金会](wiki/6.为好奇者、研究人员和区块链爱好者准备的互联网计算机/6.2DFINITY基金会.md)
-- [比特币的整合](wiki/6.为好奇者、研究人员和区块链爱好者准备的互联网计算机/5.2比特币的整合.md)
+- [比特币的整合](wiki/5.智能合约和Dapp开发人员的互联网计算机/5.2比特币的整合.md)
 
 更多内容参见 [Internet Computer for researchers and blockchain enthusiasts](https://wiki.internetcomputer.org/w/index.php?title=Internet_Computer_for_researchers_and_blockchain_enthusiasts&action=edit&redlink=1).
 
