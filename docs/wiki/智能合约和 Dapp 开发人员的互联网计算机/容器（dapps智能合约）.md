@@ -117,3 +117,4 @@ IC 上的碳容器数量在[IC 仪表板](https://dashboard.internetcomputer.org
 ## 参考
 
 1. [↑ ](https://wiki.internetcomputer.org/wiki/Canisters_(dapps/smart_contracts)#cite_ref-1)https://medium.com/dfinity/software-canisters-an-evolution-of-smart-contracts-internet-computer-f1f92f1bfffb
+
