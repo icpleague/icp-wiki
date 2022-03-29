@@ -18,10 +18,21 @@ const sidebars = {
 
   // But you can create a sidebar manually
   
-   tutorialSidebar: [
-     '互联网计算机 wiki.md',
+   Docs: [
+     '互联网计算机 wiki',
      {
-       Docs: ['互联网计算机 wiki.md', 'wiki/ICP代币持有者、质押者和神经元持有者的互联网计算机/'],
+       type: 'category',
+       label: 'Guides',
+       collapsible: true,
+       collapsed: false,
+       items: [
+         'wiki/ICP代币持有者、质押者和神经元持有者的互联网计算机',
+         {
+           type: 'category',
+           label: 'Docs',
+           items: ['wiki/ICP代币持有者、质押者和神经元持有者的互联网计算机/ICP代币', 'wiki/ICP代币持有者、质押者和神经元持有者的互联网计算机/互联网计算机代币持有者、投资者和神经元持有者'],
+         },
+       ],
      },
    ],
   /*
