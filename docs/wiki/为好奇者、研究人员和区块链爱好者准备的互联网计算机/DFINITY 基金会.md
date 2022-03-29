@@ -27,3 +27,4 @@ DFINITY已经成为了有兴趣在区块链、计算机科学和密码学前沿�
 [DFINITY 技术博客](https://medium.com/dfinity)  
 [DFINITY 开发者论坛](https://forum.dfinity.org/)  
 [DFINITY 子版块](https://www.reddit.com/r/dfinity/)  
+
