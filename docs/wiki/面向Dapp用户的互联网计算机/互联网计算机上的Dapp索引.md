@@ -1040,3 +1040,4 @@
 - What: 这个应用程序为那些致力于改善世界的倡导者、积极分子和变革者提供服务。
 - Where: https://www.weact.chat/dfinity
 - Twitter: https://twitter.com/WeAct_Chat
+
