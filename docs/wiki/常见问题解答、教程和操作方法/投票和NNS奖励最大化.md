@@ -93,3 +93,4 @@ NNS是一种流动的民主，这意味着神经元可以将他们的投票权�
 * [治理提案和投票奖励权重的变化（提案）](https://forum.dfinity.org/t/changes-to-governance-proposals-and-voting-reward-weights-proposal/9172)  
 * [社区主导的互联网计算机治理](https://medium.com/dfinity/the-community-led-governance-of-the-internet-computer-b863cd2975ba)  
       1.  https://forum.dfinity.org/t/changes-to-governance-proposals-and-voting-reward-weights-proposal/9172
+
