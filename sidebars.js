@@ -21,7 +21,7 @@ const sidebars = {
    tutorialSidebar: [
      '互联网计算机 wiki.md',
      {
-       Docs: ['introduction', 'sidebar', 'markdown-features', 'versioning'],
+       Docs: ['互联网计算机 wiki.md', 'wiki/ICP代币持有者、质押者和神经元持有者的互联网计算机/'],
      },
    ],
   /*
