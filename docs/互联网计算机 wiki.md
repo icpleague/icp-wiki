@@ -15,8 +15,8 @@
 
 ### 对于一般的读者
 
-- [互联网计算机概述](wiki/互联网计算机概述.md)
-- [互联网计算机愿景](wiki/互联网计算机愿景.md)
+- [互联网计算机概述](wiki/1.互联网计算机介绍/1.2互联网计算机概述.md)
+- [互联网计算机愿景](wiki/1.互联网计算机介绍/1.3互联网计算机愿景.md)
 - [互联网计算机路线图](https://dfinity.org/roadmap/)
 
 ### 对于技术性更强的读者
@@ -28,9 +28,9 @@
 
 使用互联网电脑的核心好处之一是，用户不需要令牌，也不需要支付访问和使用 Dapp 的费用。作为从钱包进行身份验证的一种替代方法，用户可以使用互联网身份进行验证。在这里你可以找到更多的关于互联网身份的信息(II)(https://identity.ic0.app/ )，这是一个区块链认证框架支持的互联网计算机。
 
-- [什么是互联网身份](wiki/什么是互联网身份.md)
-- [Dapp 用户的互联网身份](wiki/Dapp用户的互联网身份.md)
-- [互联网身份技术概述](wiki/互联网身份技术概述.md)
+- [什么是互联网身份](wiki/2.互联网身份介绍/2.1什么是互联网身份.md)
+- [Dapp 用户的互联网身份](wiki/2.互联网身份介绍/2.2Dapp用户的互联网身份.md)
+- [互联网身份技术概述](wiki/2.互联网身份介绍/2.3互联网身份技术概述.md)
 
 ## 面向 DAPP 用户的互联网计算机
 
@@ -38,10 +38,10 @@
 
 示例:
 
-- [Dapp 用户互联网计算机介绍](wiki/Dapp用户的互联网计算机介绍.md)
-- [互联网计算机上的Dapp索引](wiki/互联网计算机上的Dapp索引.md)
+- [Dapp 用户互联网计算机介绍](wiki/3.面向Dapp用户的互联网计算机/3.1Dapp用户的互联网计算机介绍.md)
+- [互联网计算机上的Dapp索引](wiki/3.面向Dapp用户的互联网计算机/3.2互联网计算机上的Dapp索引.md)
 
-可以在 [Dapp 用户的互联网计算机](wiki/Dapp用户的互联网计算机.md)了解更多
+可以在 [Dapp 用户的互联网计算机](wiki/3.面向Dapp用户的互联网计算机/3.3Dapp用户的互联网计算机.md)了解更多
 
 ## ICP代币持有者、质押者和神经元持有者的互联网计算机
 
@@ -49,14 +49,14 @@
 
 例子：
 
-- [ICP 代币](wiki/ICP代币.md)
-- [管理持有的 ICP](wiki/管理持有的ICP.md)
-- [Staking, voting and rewards](https://wiki.internetcomputer.org/wiki/Staking,_voting_and_rewards)
-- [Governance of the Internet Computer](https://wiki.internetcomputer.org/wiki/Governance_of_the_Internet_Computer)
-- [Network Nervous System](https://wiki.internetcomputer.org/wiki/Network_Nervous_System)
-- [Total supply, circulating supply, and staked_ICP](https://wiki.internetcomputer.org/wiki/Total_supply,_circulating_supply,_and_staked_ICP)
+- [ICP 代币](wiki/4.ICP代币持有者、质押者和神经元持有者的互联网计算机/4.1ICP代币.md)
+- [管理持有的 ICP](wiki/4.ICP代币持有者、质押者和神经元持有者的互联网计算机/4.2管理持有的ICP.md)
+- [质押、投票和奖励](wiki/4.ICP代币持有者、质押者和神经元持有者的互联网计算机/4.3质押、投票和奖励.md)
+- [互联网计算机的治理](wiki/4.ICP代币持有者、质押者和神经元持有者的互联网计算机/4.4互联网计算机的治理.md)
+- [网络神经系统](wiki/4.ICP代币持有者、质押者和神经元持有者的互联网计算机/4.5网络神经系统.md)
+- [总供应量、流通供应量和质押 ICP](wiki/4.ICP代币持有者、质押者和神经元持有者的互联网计算机/4.6总供应量、流通供应量和质押ICP.md)
 
-更多内容参见[Internet Computer token-holders, investors and neuron holders](https://wiki.internetcomputer.org/wiki/Internet_Computer_token-holders,_investors_and_neuron_holders).
+更多内容参见[互联网计算机代币持有者、投资者和神经元持有者](wiki/4.ICP代币持有者、质押者和神经元持有者的互联网计算机/4.7互联网计算机代币持有者、投资者和神经元持有者.md).
 
 ## 智能合约和 Dapp 开发人员的互联网计算机
 
@@ -64,10 +64,10 @@
 
 例子：
 
-- [Canisters (dapps/smart contracts)](https://wiki.internetcomputer.org/wiki/Canisters_(dapps/smart_contracts))
+- [容器（dapps智能合约）](wiki/5.智能合约和 Dapp 开发人员的互联网计算机/5.1容器（dapps智能合约）.md)
 - [smartcontract.org 上的开发者文档](https://smartcontracts.org/)
 - [IC 社区开发者论坛](https://forum.dfinity.org/)
-- [Bitcoin integration](https://wiki.internetcomputer.org/wiki/Bitcoin_integration)
+- [比特币的整合](wiki/5.智能合约和 Dapp 开发人员的互联网计算机/5.2比特币的整合.md)
 
 更多内容参见 [Internet Computer for smart contract and dapp developers](https://wiki.internetcomputer.org/wiki/Internet_Computer_for_smart_contract_and_dapp_developers).
 
@@ -79,9 +79,9 @@
 
 - [互联网计算机的工作原理](https://dfinity.org/howitworks/)
 - [互联网计算机仪表板](https://dashboard.internetcomputer.org/)
-- [互联网计算机的性能](wiki/互联网计算机的性能.md)
-- [DFINITY 基金会](wiki/DFINITY基金会.md)
-- [Bitcoin integration](https://wiki.internetcomputer.org/wiki/Bitcoin_integration)
+- [互联网计算机的性能](wiki/6.为好奇者、研究人员和区块链爱好者准备的互联网计算机/6.1互联网计算机的性能.md)
+- [DFINITY 基金会](wiki/6.为好奇者、研究人员和区块链爱好者准备的互联网计算机/6.2DFINITY基金会.md)
+- [比特币的整合](wiki/6.为好奇者、研究人员和区块链爱好者准备的互联网计算机/5.2比特币的整合.md)
 
 更多内容参见 [Internet Computer for researchers and blockchain enthusiasts](https://wiki.internetcomputer.org/w/index.php?title=Internet_Computer_for_researchers_and_blockchain_enthusiasts&action=edit&redlink=1).
 
@@ -91,15 +91,15 @@
 
 ### 常见问题解答
 
-- [FAQ](wiki/FAQ.md)
+- [FAQ](wiki/7.常见问题解答、教程和操作方法/7.1FAQ.md)
 
 ### 教程
 
 例子:
 
-- [管理持有的ICP](wiki/管理持有的ICP.md)
-- [管理互联网身份](wiki/管理互联网身份.md)
-- [Maximizing Voting and NNS Rewards](https://wiki.internetcomputer.org/wiki/Maximizing_Voting_and_NNS_Rewards)
+- [管理持有的ICP](wiki/7.常见问题解答、教程和操作方法/4.2管理持有的ICP.md)
+- [管理互联网身份](wiki/7.常见问题解答、教程和操作方法/7.2管理互联网身份.md)
+- [投票和NNS奖励最大化](wiki/7.常见问题解答、教程和操作方法/7.3投票和NNS奖励最大化.md)
 
 更多内容参见 [Best Practices](https://wiki.internetcomputer.org/wiki/Best_Practices)
 
@@ -107,13 +107,12 @@
 
 例子:
 
-- [How-To: Claim neurons for seed participants](https://wiki.internetcomputer.org/wiki/How-To:_Claim_neurons_for_seed_participants)
-- [How-To: Create an NNS motion proposal](https://wiki.internetcomputer.org/wiki/How-To:_Create_an_NNS_motion_proposal)
-- [How-To: Set your neuron to follow another neuron](https://wiki.internetcomputer.org/wiki/How-To:_Set_your_neuron_to_follow_another_neuron)
-- [How-To: Deploy a "hello world" smart contract or dapp](https://wiki.internetcomputer.org/wiki/How-To:_Deploy_a_"hello_world"_smart_contract_or_dapp)
+- [操作方法：为种子参与者申领神经元](wiki/7.常见问题解答、教程和操作方法/7.5操作方法：为种子参与者申领神经元.md)
+- [操作方法：创建NNS提案](wiki/7.常见问题解答、教程和操作方法/7.6操作方法：创建NNS提案.md)
+- [操作方法：设置你的神经元跟随另一个神经元](wiki/7.常见问题解答、教程和操作方法/7.7操作方法：设置你的神经元跟随另一个神经元.md)
 
 
-更多内容参见 [How-Tos](https://wiki.internetcomputer.org/wiki/How-Tos).
+更多内容参见 [操作方法](wiki/7.常见问题解答、教程和操作方法/7.8操作方法集合（how-tos).md).
 
 ## wiki投稿
 
