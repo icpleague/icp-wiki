@@ -1,5 +1,5 @@
 # 为Wiki做出贡献
-本 wiki 的内容由 IC 社区维护并为 IC 社区服务。为了培养可靠的内容和社区来源，请参阅此页面。
+本wiki的内容由IC社区维护并为IC社区服务。为了建立可靠的内容来源和社区，请参阅此页面。
 ## 如何贡献
 每个人都可以为这个wiki做出贡献，只需[创建一个帐户](https://wiki.internetcomputer.org/wiki/Special:CreateAccount)即可。
 ## 用户类型
