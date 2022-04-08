@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+slug: /
+---
+
 # 互联网计算机 wiki
 
 ## 欢迎！
